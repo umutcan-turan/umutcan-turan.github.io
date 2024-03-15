@@ -79,14 +79,11 @@ nav {
 }
 .container {
 	width: 100%;
-	min-height: 100vh;
+	min-height: 50vh;
 	padding: 0 5vw;
 }
 
 .container h2 {
-	position: sticky;
-	top: 0;
-	background: #fff;
 	font-size: 2.0rem;
 	margin: 1rem 0;
 	border-bottom: 0.25rem solid black;
